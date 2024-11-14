@@ -11,5 +11,3 @@ print(sweet.lower() == 'chd' or sweet.upper() == "dd")
  
 
 
-
-
